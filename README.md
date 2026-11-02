@@ -47,15 +47,26 @@ Average Tenure   -   	7.01 years
 
 ## 🔍 KEY INSIGHTS
 
+## 🔍 KEY INSIGHTS
 
-- 🎂 **AGE:** Younger employees (under 30) are mostly entry-level at Job Level 1, and the under-20 leavers showed low environment satisfaction (mostly 1-3). Better growth paths and a better work environment for early-career staff can improve retention.
+- ⏰ **OVERTIME IS THE #1 DRIVER:** Employees working overtime left at 30.5% (127 of 416), versus 10.4% for those who didn't, nearly 3x higher.
   
+- 🎂 **YOUNG EMPLOYEES LEAVE MOST:** Attrition is 57.1% for ages 18-20 (16 of 28) and 23.5% for ages 21-30, against 10.6% for ages 41-50.
+  
+- 🪜 **ENTRY-LEVEL ROLES ARE THE WEAK SPOT:** Job Level 1 has 26.3% attrition (143 of 543), and Sales Representatives are the highest-risk role at 39.8%.
+  
+- 💰 **LOW PAY MEANS HIGH EXIT:** The Low salary band shows 21.8% attrition versus 8.9% for the High band, and leavers' median monthly income was 3,202 versus 5,204 for stayers.
+  
+- 🔥 **RISKS STACK UP:** Single employees on overtime left at 49.6% (131 employees), and Job Level 1 employees on overtime left at 52.6% (156 employees).
+  
+- 📉 **SATISFACTION AND PERKS MATTER:** Environment satisfaction of 1 shows 25.4% attrition versus 13.5% at level 4, and employees with no stock options left at 24.4% versus 7.6% at level 2.
 
-- 🏢 **DEPARTMENT & ROLE:** R&D has the largest share of younger employees, with Laboratory Technicians as the biggest role group. Under-20 leavers came mostly from Sales and R&D, so retention efforts should start in these two departments.
+## 💡 RECOMMENDATIONS
 
-
-
-- 💰 **PAY & WORKLOAD:** Under-20 stayers had lower hourly rates and salary hikes than leavers, and most leavers did not work overtime. Pay and workload alone don't look like the main reasons for exits, so satisfaction and career growth deserve a closer look.
+- Cap and monitor overtime, starting with Sales and Job Level 1 staff
+- Review pay and growth paths for Sales Representatives and the Low salary band
+- Build onboarding, mentoring and promotion paths for employees under 30
+- Offer stock options or retention bonuses to early-career staff, and track environment satisfaction regularly
 
   
 
