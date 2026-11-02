@@ -46,6 +46,20 @@ Average Tenure   -   	7.01 years
 
 ## 🔍 KEY INSIGHTS
 
+## 🔍 KEY INSIGHTS
+
+
+- 🎂 **AGE:** Younger employees (under 30) are mostly entry-level at Job Level 1, and the under-20 leavers showed low environment satisfaction (mostly 1-3). Better growth paths and a better work environment for early-career staff can improve retention.
+- 
+
+- 🏢 **DEPARTMENT & ROLE:** R&D has the largest share of younger employees, with Laboratory Technicians as the biggest role group. Under-20 leavers came mostly from Sales and R&D, so retention efforts should start in these two departments.
+
+
+
+- 💰 **PAY & WORKLOAD:** Under-20 stayers had lower hourly rates and salary hikes than leavers, and most leavers did not work overtime. Pay and workload alone don't look like the main reasons for exits, so satisfaction and career growth deserve a closer look.
+
+  
+
 # Dataset
 
 Source: Kaggle - HR-Employee-Attrition.csv
