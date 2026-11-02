@@ -1,14 +1,14 @@
 # 👥 HR ANALYTICS & EMPLOYEE ATTRITION DASHBOARD
 
-#📈 Dashboard Preview 
+## 📈 DASHBOARD PREVIEW
 
 screenshots are available in the Screenshots/ folder.
 
-#🎯 Objective 
+## 🎯 OBJECTIVE 
 
 Built a comprehensive HR Analytics dashboard to analyze employee attrition patterns and identify key drivers of turnover. The dashboard helps HR teams take data-driven decisions on retention strategies by visualizing attrition rates across departments, job roles, age groups, salary bands, and education fields.
 
-#🛠️ Tools Used
+## 🛠️ TOOLS USED
 
 
 Power BI — Interactive dark-mode dashboard with custom neon-glow theme
@@ -16,7 +16,7 @@ Python (Pandas) — Data preprocessing, missing value handling, and feature engi
 DAX — Calculated measures for Attrition Rate, Avg Salary, Avg Age, and Avg Tenure
 SQL — KPI validation queries
 
-#📈 Key KPIs
+## 📊 KEY KPIs
 
 KPI	Value
 
@@ -34,7 +34,7 @@ Average Salary   -   	₹6.50K
 
 Average Tenure   -   	7.01 years
 
-#🧹 Data Cleaning
+## 🧹 DATA CLEANING
 
 * Standardized column names and data types.
 
@@ -44,6 +44,8 @@ Average Tenure   -   	7.01 years
 
 * Generated custom dark-mode background with radial neon-glow effect using Python (Pillow).
 
+## 🔍 KEY INSIGHTS
+
 # Dataset
 
 Source: Kaggle - HR-Employee-Attrition.csv
@@ -52,7 +54,7 @@ Rows: 1,470
 
 Columns: 30
 
-#Contact
+## 📬 CONTACT
 
 LinkedIn: Guneet Kaur Sethi
 
