@@ -55,5 +55,7 @@ Columns: 30
 #Contact
 
 LinkedIn: Guneet Kaur Sethi
+
 GitHub: guneet1234
+
 Email: guneetkaursethi9@gmail.com
