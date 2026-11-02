@@ -44,7 +44,6 @@ Average Tenure   -   	7.01 years
 
 * Generated custom dark-mode background with radial neon-glow effect using Python (Pillow).
 
-## 🔍 KEY INSIGHTS
 
 ## 🔍 KEY INSIGHTS
 
